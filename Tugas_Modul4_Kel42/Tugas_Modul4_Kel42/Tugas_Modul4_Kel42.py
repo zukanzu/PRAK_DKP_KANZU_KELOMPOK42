@@ -1,3 +1,5 @@
+import method_Tugas_Modul4_Kel42
+
 print("Sebutkan Nama dan NIM kelompok 42 praktikum DKP 2021!!!")
 
 def identitas(i, nama, nim):
@@ -42,3 +44,7 @@ identitas("2", "Kanina Nadia Andriyani", "21120120130053")
 identitas("3", "Novita Auliya", "2112012040114")
 identitas("4", "Ahmad Aldani Herlangga", "21120120140168")
 nilai()
+
+pl = method_Tugas_Modul4_Kel42.method_tugas("Modul 4", "Kelompok 42")
+
+pl.penutup()

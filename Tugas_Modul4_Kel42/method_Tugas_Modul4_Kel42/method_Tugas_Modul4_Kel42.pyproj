@@ -2,15 +2,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>b64b251c-ad89-4dd1-8006-2c603283cf43</ProjectGuid>
+    <ProjectGuid>3721151d-9317-4bb9-8129-354d858b0a71</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Tugas_Modul4_Kel42.py</StartupFile>
+    <StartupFile>method_Tugas_Modul4_Kel42.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>Tugas_Modul4_Kel42</Name>
-    <RootNamespace>Tugas_Modul4_Kel42</RootNamespace>
+    <Name>method_Tugas_Modul4_Kel42</Name>
+    <RootNamespace>method_Tugas_Modul4_Kel42</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -21,10 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="method_Tugas_Modul4_Kel42.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="Tugas_Modul4_Kel42.py" />
+    <Compile Include="method_Tugas_Modul4_Kel42.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
