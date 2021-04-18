@@ -5,4 +5,4 @@ class method_tugas:
         self.kelompok = kelompok
 #self parameter
     def penutup(self):
-        print(f"Terimakasih sudah mengisi nilai praktiku {self.modul} untuk {self.kelompok}")
+        print(f"Terimakasih sudah mengisi nilai praktikum {self.modul} untuk {self.kelompok}")
