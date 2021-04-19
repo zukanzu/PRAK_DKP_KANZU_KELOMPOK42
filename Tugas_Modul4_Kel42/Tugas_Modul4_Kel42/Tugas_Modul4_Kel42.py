@@ -40,7 +40,7 @@ def nilai():
 
     
 identitas("1", "Kanzu Khairon Adli", "21120118130063")
-identitas("2", "Kanina Nadia Andriyani", "21120120130053")
+identitas("2", "Kania Nadia Andriyani", "21120120130053")
 identitas("3", "Novita Auliya", "2112012040114")
 identitas("4", "Ahmad Aldani Herlangga", "21120120140168")
 nilai()
